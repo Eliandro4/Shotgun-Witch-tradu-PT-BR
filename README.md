@@ -2,4 +2,4 @@
  Uma tradução PT-BR para o jogo Shotgun-WItch
 
 CAPTURAS
-![print1](https://github.com/Eliandro4/Shotgun-Witch-PT-BR/assets/153942958/9c5c192f-d938-4cbc-9ebb-50036877e00e)
+![CAPTURA1](https://github.com/Eliandro4/Shotgun-Witch-PT-BR/assets/153942958/075d7b27-48f0-418b-9ab0-0ccf539414c1)
